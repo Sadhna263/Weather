@@ -3,7 +3,7 @@
 
 A simple and elegant web application to get real-time weather updates for any city using the **OpenWeatherMap API**. Built using **HTML, CSS, and JavaScript**.
 
-🔗 **Live Demo**: [Click here](#) 
+🔗 **Live Demo**: https://sadhna263.github.io/Weather/
 ---
 
 ## 📸 Preview
